@@ -36,3 +36,8 @@ int getTriangleType(int a, int b, int c) {
     }
     return -3;
 }
+
+int minusnum(int c,int d)
+{
+    return c-d;
+}
